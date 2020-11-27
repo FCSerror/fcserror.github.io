@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FCSerror</title>
+    <title>title on FCSerror</title>
     <link>https://fcserror.github.io/</link>
-    <description>Recent content on FCSerror</description>
+    <description>Recent content in title on FCSerror</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Nov 2020 16:03:04 -0500</lastBuildDate><atom:link href="https://fcserror.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://fcserror.github.io/about/</link>
+      <pubDate>Thu, 26 Nov 2020 20:23:09 -0500</pubDate>
+      
+      <guid>https://fcserror.github.io/about/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://fcserror.github.io/posts/my-first-post/</link>
